@@ -98,10 +98,6 @@ MongoClient.connect(url, { useUnifiedTopology: true, useNewUrlParser: true }, (e
         }
     })
 
-
-
-
-
 });
 
 // run server
